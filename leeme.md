@@ -22,4 +22,4 @@ Please fork this respository and then issue Pull requests for review
 
 ### Copyright
 
-2022 Entrenamiento Git
+2022 Entrenamiento Git. All rights reserved.
